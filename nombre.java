@@ -1,8 +1,9 @@
 public class nombre{
  public static void main(String args[]){
 
-	System.out.println("Daniel Carmenes Alvarez");
-    System.out.println("25");
+	System.out.println("Nombre:Daniel Carmenes Alvarez");
+    System.out.println("Edad:25");
+	System.out.println("Localidad de Nacimiento: Leon");
 	}
 	
 }
